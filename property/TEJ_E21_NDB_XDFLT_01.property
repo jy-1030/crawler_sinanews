@@ -1,0 +1,27 @@
+url= https://finance.sina.com.cn/roll/index.d.html?cid=56592&page=
+url2=https://finance.sina.com.cn/roll/index.d.html?cid=57038&page=
+url0=https://finance.sina.com.cn/roll/index.d.html?cid=56592&
+page=20
+post=false
+connecttimeout=50000
+readtimeout=50000
+retry=3
+encoding=UTF-8
+outdir=
+extname=txt
+separation=#
+proxyip=
+proxyport=
+rawmaxbyte=0
+target_encoding=utf-8
+tranferEncoding=true
+extractTextAboveTable=true
+showsql=
+dbname=chn
+schedule=chn_fincd_sinanews_A
+tablename=fincd.fincd_txsinanews
+tableNameComp = fincd.fincd_txsinanews_Comp
+tableNameNoid = fincd.fincd_txsinanews_noid
+chain=XDFLT.TEJ_E21_NDB_XDFLT_01
+lastmail=N
+title=
